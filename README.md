@@ -1,11 +1,27 @@
+![logo](https://github.com/plasmian/plasmian.github.io/blob/02cb0f12465038b2a8de85b4f65aff00c934d095/plasmian_logo.png)
+
 # Plasmian
 ## Debian with KDE Plasma: Sane Defaults and Noob-Friendly
 
-Plasmian is a set of 'remastered' ISOs for installing Debian GNU/Linux 'testing' with KDE Plasma, with several modifications and sane defaults. It has a familiar look and feel to and it is ideal for newcomers.
+Plasmian is a set of 'remastered' ISOs for installing Debian GNU/Linux 'testing' with KDE Plasma, with several modifications. It has a familiar look and feel and is user friendly for newcomers to the Linux desktop.
 
 Plasmian is partially inspired by Linus Tech Tips' Linux daily driver challenge and partially by everything I do each time I install Debian with KDE. If you feel something should be changed in these builds, please create a Github issue [here.](https://github.com/plasmian/plasmian-script/issues)
 
-### Features
+###### _Plasmian is not associated with the Debian Project or KDE e.V._
+
+## Download
+
+[Download: 64-bit (amd64) image [Proprietary drivers and firmware included]](example.com) ← RECOMMENDED
+
+Checksum: [SHA512](example.com)
+
+[Download: 64-bit (amd64) image [Open-source drivers and firmware only]](example.com)
+
+Checksum: [SHA512](example.org)
+
+_Please make sure to verify your download using the checksums. [Here's](example.org) how to check._
+
+## Features
 * Renaming strangely named apps like 'Kate' and 'Spectacle' to Text Editor and Screenshot
 * Lots of bloat (anthy, goldendict, multilingual terminal, thai terminal, several input tools) preinstalled in the official images is removed
 * Sane defaults for trivial stuff (double click to open folders, columns rather than rows on the desktop, template files for common office formats, disable splash screen,)
