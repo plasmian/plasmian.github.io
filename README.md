@@ -26,11 +26,11 @@ _Please make sure to verify your download using the checksums. [Here's](example.
 * Lots of bloat (anthy, goldendict, multilingual terminal, thai terminal, several input tools) preinstalled in the official images is removed
 * Sane defaults for trivial stuff (double click to open folders, columns rather than rows on the desktop, template files for common office formats, disable splash screen,)
 * Breeze theme for GTK, GRUB, Plymouth, SDDM is used
-* Wine (latest builds from WineHQ), winetricks, wine-binfmt (to run .exe files by double-clicking etc.), Bottles (Flatpak) and Lutris (Flatpak) are preinstalled
+* Wine (latest builds from WineHQ), winetricks, wine-binfmt (to run .exe files by double-clicking etc.), Bottles (Flatpak) and Lutris are preinstalled
 * OnlyOffice Desktop Editors (Flatpak) preinstalled
 * Latest versions of commonly-updated apps like Firefox and OnlyOffice using Flatpak, and its backend for the Discover app store
 * AppImage Pool (client for installing AppImages from AppImageHub) (Flatpak) and AppImageLauncher are preinstalled
-* For convienence, proprietary drivers and firmware is preinstalled. Most modern hardware, especially wireless drivers and nVidia GPUs, require this. (Fully free images are also available.)
+* For convienence, proprietary drivers and firmware is preinstalled. Most modern hardware, especially wireless drivers and nVidia GPUs, require this. However **fully free images are also available.** (Free as in not listed by vrms.)
 * Since it is based on Debian testing, it can more or less run packages meant for the latest Ubuntu release.
 
 ## Notes
