@@ -1,4 +1,4 @@
-![logo](https://github.com/plasmian/plasmian.github.io/blob/02cb0f12465038b2a8de85b4f65aff00c934d095/plasmian_logo.png)
+![logo](https://raw.githubusercontent.com/plasmian/plasmian.github.io/02cb0f12465038b2a8de85b4f65aff00c934d095/plasmian_logo.png)
 
 # Plasmian
 ## Debian with KDE Plasma: Sane Defaults and Noob-Friendly
