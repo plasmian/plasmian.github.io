@@ -17,7 +17,7 @@ Checksum: [SHA512](example.com)
 
 [Download: 64-bit (amd64) image [Open-source drivers and firmware only]](example.com)
 
-Checksum: [SHA512](example.org)
+Checksum: [SHA512](Test.md)
 
 _Please make sure to verify your download using the checksums. [Here's](example.org) how to check._
 
