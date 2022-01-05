@@ -30,7 +30,7 @@ _Please make sure to verify your download using the checksums. [Here's](example.
 * OnlyOffice Desktop Editors (Flatpak) preinstalled
 * Latest versions of commonly-updated apps like Firefox and OnlyOffice using Flatpak, and its backend for the Discover app store
 * AppImage Pool (client for installing AppImages from AppImageHub) (Flatpak) and AppImageLauncher are preinstalled
-* For convienence, proprietary drivers and firmware is preinstalled. Most modern hardware, especially wireless drivers and nVidia GPUs, require this. However **fully free images are also available.** (Free as in not listed by vrms.)
+* For convienence, proprietary drivers and firmware is preinstalled. Most modern hardware, especially wireless drivers, require this. Special image for nVidia is also available (with proprietary drivers.) However **fully free images are also available.** (Free as in not complained about by vrms.)
 * Since it is based on Debian testing, it can more or less run packages meant for the latest Ubuntu release.
 
 ## Notes
